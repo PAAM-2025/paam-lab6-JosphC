@@ -1,0 +1,5 @@
+# Exemplu de configurare pentru local.properties
+# Copiază acest fișier ca local.properties și adaugă cheia ta API Google Maps
+
+# Google Maps API Key
+GOOGLE_MAPS_API_KEY=CHEIA_TA_API_AICI
